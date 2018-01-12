@@ -1,0 +1,117 @@
+Altium Designer Pick and Place Locations,,,,,,,,
+D:\Documents\Altium\Projects\ECC\Walrus\Rev 1\CAM\Assembly Gerbers_Files, Walrus\Pick and Place, Walrus\Pick Place for Walrus.csv,,,,,,
+,,,,,,,,
+========================================================================================================================,,,,,,,,
+File Design Information:,,,,,,,,
+,,,,,,,,
+Date:       23/08/17,,,,,,,,
+Time:       12:29,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,
+Variant:    No variations,,,,,,,,
+Units used: mm,,,,,,,,
+,,,,,,,,
+Designator,DNI,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+U2,,RFM69HCW,TopLayer,RFM69HCW,35.5751,14.725,360,ISM TRANSCEIVER MODULE
+U3,,ADS1015,TopLayer,QFN50P200X150X40-10(RUG_R-PQFP-N10),14.085,4.3,0,"Ultra-Small, Low-Power, I2C-Compatible, 3.3-kSPS, 12-Bit ADC With Internal Reference, Oscillator, and Programmable Comparator"
+J1,,U.FL-R-SMT-1,TopLayer,HIROSE_U.FL-R-SMT-1,43.075,3.7375,180,Ultra Small Surface Mount Coaxial Connectors - 1.9mm or 2.4mm Mated Height
+J4,,S2B-PH-SM4-TB,TopLayer,JST_S2B-PH-SM4-TB,8.125,11.5,90,PH CONNECTOR/2.0MM Pitch Side Entry
+J3,*,HLE-120-02-G-DV-A,BottomLayer,SAMTEC_HLE-120-02-G-DV-A,32.5,26.5,0,"0.100 Tiger Beam™ Cost-effective Single Beam Socket Strip"""
+C6,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),1.415,18.825,360,Ceramic Chip Capacitor
+C5,,2.2µF 16V X5R,TopLayer,CAPC1005X60L(0402),1.475,21.325,360,Ceramic Chip Capacitor
+C8,,4.7µF 6.3V X5R,TopLayer,CAPC1005X60L(0402),6.375,22.975,270,Ceramic Chip Capacitor
+C9,,4.7µF 6.3V X5R,TopLayer,CAPC1005X60L(0402),13.75,13,270,Ceramic Chip Capacitor
+Q2,,NTA4151PT1G,TopLayer,"SOT50P160X90-3L(SOT416,_SC75)",10.45,1.675,0,Small Signal MOSFET
+R10,*,DNP,TopLayer,RESC1005X40L(0402)_DNP,1.475,20.525,360,"Chip Resistor, Thick Film"
+R11,,1.8K ±1%,TopLayer,RESC1005X40L(0402),1.425,18,360,"Chip Resistor, Thick Film"
+R12,*,DNP,TopLayer,RESC1005X40L(0402)_DNP,1.475,19.675,360,"Chip Resistor, Thick Film"
+R14,,10.0K ±1%,TopLayer,RESC1005X40L(0402),3.025,17.1,360,"Chip Resistor, Thick Film"
+U5,,bq24232,TopLayer,QFN50P300X300X100-17N(bq24232),4.55,20,90,USB-FRIENDLY LITHIUM-ION BATTERY CHARGER AND POWER-PATH MANAGEMENT IC
+D6,,GREEN,TopLayer,DIOC1608X90L(0603)_GREEN,64,20.1,270,Surface Mounting Chip LED
+D9,,BLUE,TopLayer,DIOC1608X90L(0603)_BLUE,64,22.925,270,Surface Mounting Chip LED
+D8,,RED,TopLayer,DIOC1608X90L(0603)_RED,64,8.6,270,Surface Mounting Chip LED
+D10,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),59.2,22.525,270,Schottky Barrier Diode
+D11,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),60.85,22.975,360,Schottky Barrier Diode
+C20,,15pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),51.85,13.06,90,Ceramic Chip Capacitor
+C21,,15pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),51.85,16.115,270,Ceramic Chip Capacitor
+U1,,CC2500,TopLayer,QFN50P400X400X100-21N(CC2500),55.75,15,270,Low-Cost Low-Power 2.4 GHz RF Transceiver
+Y1,,26.000MHz ±10ppm 10pF,TopLayer,XTAL500X320X110-4N(ABM3B),49.55,14.875,180,CERAMIC SMD CRYSTAL
+C1,,1.0µF 16V X7R,TopLayer,CAPC1608X90L(0603),46.8,19.85,270,Ceramic Chip Capacitor
+C41,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),55.86,19.5,180,Ceramic Chip Capacitor
+C51,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),54.035,18.825,360,Ceramic Chip Capacitor
+C91,,220pF 50V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),52.285,14.375,360,Ceramic Chip Capacitor
+C111,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),53.46,11.925,360,Ceramic Chip Capacitor
+C121,,100pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),55.025,11.36,270,Ceramic Chip Capacitor
+C122,,1.0pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),54.485,9.925,360,Ceramic Chip Capacitor
+C123,,1.8pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),56.715,7.05,180,Ceramic Chip Capacitor
+C124,,1.5pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),54.01,6.125,360,Ceramic Chip Capacitor
+C131,,100pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),55.975,11.36,270,Ceramic Chip Capacitor
+C132,,1.0pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),56.025,8.535,270,Ceramic Chip Capacitor
+C141,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),57.265,11.8,180,Ceramic Chip Capacitor
+C151,,220pF 50V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),58.75,12.865,270,Ceramic Chip Capacitor
+C181,,220pF 50V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),58.85,15.59,270,Ceramic Chip Capacitor
+FB1,,1000ohms ±25% @100MHz,TopLayer,FBDC1005X60L(0402),45.575,18.72,270,GHz Noise Suppression Chip Ferrite Bead
+L121,,1.2nH ±0.3nH,TopLayer,INDC1005X60L(0402),54.925,8.53,270,Surface Mount Multilayer RF Chip Inductors
+L122,,1.2nH ±0.3nH,TopLayer,INDC1005X60L(0402),55.4,6.63,270,Surface Mount Multilayer RF Chip Inductors
+L131,,1.2nH ±0.3nH,TopLayer,INDC1005X60L(0402),56.445,9.925,180,Surface Mount Multilayer RF Chip Inductors
+R171,,56K ±1%,TopLayer,RESC1005X40L(0402),59.35,14.325,180,"Chip Resistor, Thick Film"
+J2,,U.FL-R-SMT-1,TopLayer,HIROSE_U.FL-R-SMT-1,55.4,3.6875,180,Ultra Small Surface Mount Coaxial Connectors - 1.9mm or 2.4mm Mated Height
+C10,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),18.2,20.865,270,Ceramic Chip Capacitor
+C11,,1.0µF 10V X5R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),18.565,15.625,180,Ceramic Chip Capacitor
+D4,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),11.7,17.43,360,Schottky Barrier Diode
+D5,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),12.075,18.875,180,Schottky Barrier Diode
+R15,,680K ±1%,TopLayer,RESC1005X40L(0402),13.9,17.425,180,"Chip Resistor, Thick Film"
+R16,,240K ±1%,TopLayer,RESC1005X40L(0402),13.9,16.525,360,"Chip Resistor, Thick Film"
+S1,,KMR221GLFS,TopLayer,KMR221GLFS,62.9375,14.45,90,KMR 2 Series Microminiature SMT Top Actuated
+U6,,LTC2955T-2,TopLayer,SOT65P280X100-8L(TSOT23-8),17.725,18.02,90,Pushbutton On/Off Controller with Automatic Turn-On
+U7,,LTC4411,TopLayer,SOT95P280X100-5L(TSOT23_-5),12.275,21.425,90,2.6A Low Loss Ideal Diode in ThinSOT
+C7,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),17.325,15.185,90,Ceramic Chip Capacitor
+C3,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),16.615,4.55,180,Ceramic Chip Capacitor
+C4,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),16.45,12.515,270,Ceramic Chip Capacitor
+C2,,2.2µF 16V X5R,TopLayer,CAPC1005X60L(0402),45.575,14.925,90,Ceramic Chip Capacitor
+D1,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),14.5,11,180,Schottky Barrier Diode
+D2,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),16.45,10.25,270,Schottky Barrier Diode
+Q3,,NTA7002NT1G,TopLayer,"SOT50P160X90-3L(SOT416,_SC75)",61.9,20.85,360,Small Signal MOSFET
+Q1,,NTA7002NT1G,TopLayer,"SOT50P160X90-3L(SOT416,_SC75)",8.6,4.775,270,Small Signal MOSFET
+R17,,4.99K ±1%,TopLayer,RESC1005X40L(0402),63.8,17.625,360,"Chip Resistor, Thick Film"
+R18,,191 ±1%,TopLayer,RESC1005X40L(0402),62.8,19,270,"Chip Resistor, Thick Film"
+R19,,160 ±1%,TopLayer,RESC1005X40L(0402),63.8,6.85,360,"Chip Resistor, Thick Film"
+R20,,4.99K ±1%,TopLayer,RESC1005X40L(0402),63.8,10.35,360,"Chip Resistor, Thick Film"
+R21,,22.0 ±1%,TopLayer,RESC1005X40L(0402),62.8,22.925,90,"Chip Resistor, Thick Film"
+R22,,100K ±1%,TopLayer,RESC1005X40L(0402),56.625,23.025,360,"Chip Resistor, Thick Film"
+R23,,100K ±1%,TopLayer,RESC1005X40L(0402),47.3,22.425,180,"Chip Resistor, Thick Film"
+R13,,4.99K ±1%,TopLayer,RESC1005X40L(0402),15.975,15.625,180,"Chip Resistor, Thick Film"
+R2,,100K ±1%,TopLayer,RESC1005X40L(0402),8.6,1.675,270,"Chip Resistor, Thick Film"
+R1,,100K ±1%,TopLayer,RESC1005X40L(0402),10.175,5.225,90,"Chip Resistor, Thick Film"
+R4,,3.40K ±1%,TopLayer,RESC1005X40L(0402),10.675,3,360,"Chip Resistor, Thick Film"
+R3,,3.6K ±1%,TopLayer,RESC1005X40L(0402),12.275,2.5,270,"Chip Resistor, Thick Film"
+R5,,1.8K ±1%,TopLayer,RESC1005X40L(0402),14.075,6.775,90,"Chip Resistor, Thick Film"
+R6,,1.8K ±1%,TopLayer,RESC1005X40L(0402),17.1,5.9,270,"Chip Resistor, Thick Film"
+U4,,M41T62LC,TopLayer,LCC90P320X150X80-8N(M41T62),18.85,12.675,270,Low-power serial real-time clock (RTCs) with alarm
+D3,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),15.475,18.35,270,Schottky Barrier Diode
+D7,,RB520S30T1G,TopLayer,SODFL1608X70L(SOD-523),61.25,18.85,270,Schottky Barrier Diode
+R7,,10.0K ±1%,TopLayer,RESC1005X40L(0402),7.6,19.6,180,"Chip Resistor, Thick Film"
+R8,*,DNP,TopLayer,RESC1005X40L(0402)_DNP,7.6,18.6,180,"Chip Resistor, Thick Film"
+R9,*,DNP,TopLayer,RESC1005X40L(0402)_DNP,7.6,17.7,180,"Chip Resistor, Thick Film"
+TP1,*,"Test Point, Through Hole, 1.0mm Pad, 0.5mm Hole",TopLayer,TP100P50D,14.725,1.275,0,Test Point
+TP2,*,"Test Point, Through Hole, 1.0mm Pad, 0.5mm Hole",TopLayer,TP100P50D,15.75,2.35,0,Test Point
+TP3,*,"Test Point, Through Hole, 1.0mm Pad, 0.5mm Hole",TopLayer,TP100P50D,11.45,4.55,0,Test Point
+TP4,*,"Test Point, Through Hole, 1.0mm Pad, 0.5mm Hole",TopLayer,TP100P50D,20.4,15.6,0,Test Point
+C12,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),22.14,7.4,180,Ceramic Chip Capacitor
+F1,,"0.75A Hold,1.5A Trip",TopLayer,FUSC1608X60N(0603),8.95,21.1,360,"POLY-FUSE® Resettable PTC, Surface Mount > LoRho Series"
+FD1,*,"Fiducial, Single Side, 0.75mm Land",TopLayer,FD75,1.7,28.3,0,"Fiducial, PCB Printed Copper Feature"
+FD2,*,"Fiducial, Single Side, 0.75mm Land",TopLayer,FD75,63.3,28.3,0,"Fiducial, PCB Printed Copper Feature"
+FD3,*,"Fiducial, Single Side, 0.75mm Land",TopLayer,FD75,63.225,1.775,0,"Fiducial, PCB Printed Copper Feature"
+J5,*,22-28-4023,TopLayer,MOLEX_22-28-4023,18.87,1.5,360,"KK 100 HEADER ASSY FLAT VERTICAL BREAKAWAY, 1X2"
+R24,,1.8K ±1%,TopLayer,RESC1005X40L(0402),19.5,8.25,270,"Chip Resistor, Thick Film"
+R25,,1.8K ±1%,TopLayer,RESC1005X40L(0402),22.2,10.7,360,"Chip Resistor, Thick Film"
+R26,,1.8K ±1%,TopLayer,RESC1005X40L(0402),20.5,7.375,270,"Chip Resistor, Thick Film"
+U8,,CAT24C32,TopLayer,SON50P300X200X55-8L(UDFN-8),23.15,9,180,32-Kb I2C CMOS Serial EEPROM
+C13,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),23.69,21.275,180,Ceramic Chip Capacitor
+C14,,0.1µF 10V X7R,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),20.5,20.44,270,Ceramic Chip Capacitor
+R27,,1.8K ±1%,TopLayer,RESC1005X40L(0402),24.1,16.7,360,"Chip Resistor, Thick Film"
+TP5,*,"Test Point, Through Hole, 1.0mm Pad, 0.5mm Hole",TopLayer,TP100P50D,20.925,22.025,90,Test Point
+TP6,*,"Test Point, Through Hole, 1.0mm Pad, 0.5mm Hole",TopLayer,TP100P50D,22.175,22.325,90,Test Point
+TP7,*,"Test Point, Through Hole, 1.0mm Pad, 0.5mm Hole",TopLayer,TP100P50D,25.4,20.45,90,Test Point
+U9,,LIS3DH,TopLayer,LGA50P300X300X100-16N(LGA16),22.75,19,360,MEMS digital output motion sensor: ultra low-power high performance 3-axes “nano” accelerometer
+C412,,47pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),55.86,18.65,180,Ceramic Chip Capacitor
+C512,,47pF 50V C0G/NP0,TopLayer,CAPC1005X60L(0402_FLEXTRONICS),54.035,18,360,Ceramic Chip Capacitor
